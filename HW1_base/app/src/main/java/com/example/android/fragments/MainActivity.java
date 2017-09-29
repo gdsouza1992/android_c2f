@@ -34,26 +34,41 @@ public class MainActivity extends FragmentActivity
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.news_articles);
-       // setContentView(R.layout.conversion);
 
     }
 
     public void onArticleSelected(int position) {
-        if(conversionIndex&&(position==2)) {
+        if (position == 2) {
+           // The user selected the headline of an article from the HeadlinesFragment
 
+            // Capture the article fragment from the activity layout
             ArticleFragment articleFrag = (ArticleFragment)
                     getSupportFragmentManager().findFragmentById(R.id.article_fragment);
-
-            // Call a method in the ArticleFragment to update its content
             articleFrag.updateArticleView(position);
-            conversionIndex=false;
 
-        }else if(conversionIndex&&(mcurrentPosition!=position)){
             TextView article = (TextView) findViewById(R.id.article);
             article.setText(Ipsum.Articles[position]);
-        }
+
+
+        } else if (position < 2) {
+            ConversionFragment convrFragment = new ConversionFragment();
+            FragmentTransaction transaction = getSupportFragmentManager().beginTransaction();
+            // Replace whatever is in the fragment_container view with this fragment,
+            transaction.replace(R.id.article_fragment, convrFragment);
+            transaction.addToBackStack(null);
+            // Commit the transaction
+            transaction.commit();
+
+        } /*else{
+            TextView article = (TextView) findViewById(R.id.article);
+            article.setText(Ipsum.Articles[position]);
+
+        } */
+
+        //to store current position value in order to perform conversion calculations
         mcurrentPosition=position;
     }
+
     /*{
         // The user selected the headline of an article from the HeadlinesFragment
 
@@ -70,6 +85,7 @@ public class MainActivity extends FragmentActivity
 
     } */
 
+    //reference from simple android application's "add a on-click action"
     public void display(View view){
         TextView msgTextView = (TextView) findViewById(R.id.mytextview);
         EditText msgTextField = (EditText) findViewById(R.id.mytextfield);
@@ -81,7 +97,7 @@ public class MainActivity extends FragmentActivity
         if(mcurrentPosition==0){
             conversion=input*9/5+32;
             output=String.format("Temperature %.02f(C) is %.02f(F)",input,conversion);
-        }else{
+        }else {
             conversion=(input-32)*5/9;
             output=String.format("Temperature %.02f(F) is %.02f(C)",input,conversion);
         }

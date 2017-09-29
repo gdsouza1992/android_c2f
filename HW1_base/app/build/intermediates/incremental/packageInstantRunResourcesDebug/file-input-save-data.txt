@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Thu Sep 28 10:46:09 EDT 2017
+#Fri Sep 29 13:55:27 EDT 2017
 2.base=C\:\\Users\\hp\\Desktop\\sem3\\CS443\\sampleCode\\HW1_base\\app\\build\\intermediates\\res\\resources-debug.ap_
 5.file=C\:\\Users\\hp\\Desktop\\sem3\\CS443\\sampleCode\\HW1_base\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\article_view.xml
 5.set=ANDROID_RESOURCE

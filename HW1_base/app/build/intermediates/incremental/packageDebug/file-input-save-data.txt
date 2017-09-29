@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Thu Sep 28 10:46:13 EDT 2017
+#Fri Sep 29 13:55:37 EDT 2017
 2.base=C\:\\Users\\hp\\Desktop\\sem3\\CS443\\sampleCode\\HW1_base\\app\\build\\intermediates\\res\\resources-debug.ap_
 5.file=C\:\\Users\\hp\\Desktop\\sem3\\CS443\\sampleCode\\HW1_base\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\news_articles.xml
 5.set=ANDROID_RESOURCE
@@ -20,8 +20,8 @@ count=8
 2.file=C\:\\Users\\hp\\Desktop\\sem3\\CS443\\sampleCode\\HW1_base\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
 6.set=DEX
 0.base=C\:\\Users\\hp\\Desktop\\sem3\\CS443\\sampleCode\\HW1_base\\app\\build\\intermediates\\res\\resources-debug.ap_
-3.file=C\:\\Users\\hp\\Desktop\\sem3\\CS443\\sampleCode\\HW1_base\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+3.file=C\:\\Users\\hp\\Desktop\\sem3\\CS443\\sampleCode\\HW1_base\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
 3.set=ANDROID_RESOURCE
 1.base=C\:\\Users\\hp\\Desktop\\sem3\\CS443\\sampleCode\\HW1_base\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_853137901d7504b4a734aa3d1c2303fa69882cd0
-4.file=C\:\\Users\\hp\\Desktop\\sem3\\CS443\\sampleCode\\HW1_base\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+4.file=C\:\\Users\\hp\\Desktop\\sem3\\CS443\\sampleCode\\HW1_base\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
 0.set=ANDROID_RESOURCE

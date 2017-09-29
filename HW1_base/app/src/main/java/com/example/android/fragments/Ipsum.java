@@ -24,7 +24,8 @@ public class Ipsum {
     };
 
     static String[] Articles = {
-
-        "The Fahrenheit scale is a temperature scale based on one proposed in 1724 by Amsterdam-based physicist Daniel Gabriel Fahrenheit (1686–1736), after whom the scale is named.It uses the degree Fahrenheit (symbol: °F) as the unit. The Celsius scale, also known as the centigrade scale,is an SI scale and unit of measurement for temperature. The degree Celsius (symbol: °C) can refer to a specific temperature on the Celsius scale."
+        "hi",
+            "hi",
+            "The Fahrenheit scale is a temperature scale based on one proposed in 1724 by Amsterdam-based physicist Daniel Gabriel Fahrenheit (1686–1736), after whom the scale is named.It uses the degree Fahrenheit (symbol: °F) as the unit. The Celsius scale, also known as the centigrade scale,is an SI scale and unit of measurement for temperature. The degree Celsius (symbol: °C) can refer to a specific temperature on the Celsius scale."
     };
 }
