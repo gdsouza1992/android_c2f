@@ -1,0 +1,21 @@
+#Internal package file, do not edit.
+#Thu Sep 28 10:46:09 EDT 2017
+2.base=C\:\\Users\\hp\\Desktop\\sem3\\CS443\\sampleCode\\HW1_base\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Users\\hp\\Desktop\\sem3\\CS443\\sampleCode\\HW1_base\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\article_view.xml
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\hp\\Desktop\\sem3\\CS443\\sampleCode\\HW1_base\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.set=ANDROID_RESOURCE
+4.base=C\:\\Users\\hp\\Desktop\\sem3\\CS443\\sampleCode\\HW1_base\\app\\build\\intermediates\\res\\resources-debug.ap_
+count=6
+0.file=C\:\\Users\\hp\\Desktop\\sem3\\CS443\\sampleCode\\HW1_base\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\conversion.xml
+5.base=C\:\\Users\\hp\\Desktop\\sem3\\CS443\\sampleCode\\HW1_base\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+1.file=C\:\\Users\\hp\\Desktop\\sem3\\CS443\\sampleCode\\HW1_base\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+1.set=ANDROID_RESOURCE
+2.file=C\:\\Users\\hp\\Desktop\\sem3\\CS443\\sampleCode\\HW1_base\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+0.base=C\:\\Users\\hp\\Desktop\\sem3\\CS443\\sampleCode\\HW1_base\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\hp\\Desktop\\sem3\\CS443\\sampleCode\\HW1_base\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\hp\\Desktop\\sem3\\CS443\\sampleCode\\HW1_base\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\hp\\Desktop\\sem3\\CS443\\sampleCode\\HW1_base\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\news_articles.xml
+0.set=ANDROID_RESOURCE

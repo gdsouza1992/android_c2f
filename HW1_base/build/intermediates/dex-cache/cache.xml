@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\hp\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\hp\Desktop\sem3\CS443\sampleCode\HW1_base\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_f99aaa70e93809d496a948622d7f36471fd9560b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hp\Desktop\sem3\CS443\sampleCode\HW1_base\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="115ee269b2b92f53c5eab3cdae2031b3c1b5468b">
+        <dex dex="C:\Users\hp\Desktop\sem3\CS443\sampleCode\HW1_base\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_853137901d7504b4a734aa3d1c2303fa69882cd0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hp\Desktop\sem3\CS443\sampleCode\HW1_base\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\hp\Desktop\sem3\CS443\sampleCode\HW1_base\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_eb304070a9c252ea808b087ee65d31cda918568a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hp\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\hp\Desktop\sem3\CS443\sampleCode\HW1_base\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_f99aaa70e93809d496a948622d7f36471fd9560b\classes.dex" />
+    </item>
+
+</items>

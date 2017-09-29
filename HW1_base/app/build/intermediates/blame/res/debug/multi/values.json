@@ -1,0 +1,19 @@
+[
+    {
+        "outputFile": "C:\\Users\\hp\\Desktop\\sem3\\CS443\\sampleCode\\HW1_base\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 64,
+                    "endOffset": 115
+                },
+                "from": {
+                    "file": "C:\\Users\\hp\\Desktop\\sem3\\CS443\\sampleCode\\HW1_base\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            }
+        ]
+    }
+]

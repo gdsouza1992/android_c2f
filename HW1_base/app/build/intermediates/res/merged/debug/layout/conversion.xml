@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="numberDecimal"
+        android:ems="8"
+        android:id="@+id/mytextfield"
+        android:layout_weight="1"
+        android:layout_centerVertical="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Convert"
+        android:id="@+id/button"
+        android:layout_weight="1"
+        android:onClick="display"
+        android:layout_marginStart="69dp"
+        android:layout_alignBottom="@+id/mytextfield"
+        android:layout_toEndOf="@+id/mytextfield" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:id="@+id/mytextview"
+        android:layout_weight="1"
+        android:layout_below="@+id/button"
+        android:layout_alignParentLeft="true" />
+
+
+</RelativeLayout>
